@@ -3,8 +3,8 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 import mathjax3 from 'markdown-it-mathjax3'
 
 export default withMermaid(defineConfig({
-  title: 'Celia 的技术博客',
-  description: '分布式训练 / NPU / 深度学习系统',
+title: 'Latent Space',
+  description: '算法 · 训练 · 系统 —— 笔记',
   lang: 'zh-CN',
 
   // 部署到 GitHub Pages 时改成 '/<仓库名>/'，比如 '/blog/'

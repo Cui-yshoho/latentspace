@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "Celia 的技术博客"
-  text: "分布式训练 · NPU · 深度学习系统"
-  tagline: 把踩过的坑写下来
+  name: "Latent Space"
+  text: "算法 · 训练 · 系统"
+  tagline: 把踩过的坑和想明白的事写下来
   actions:
     - theme: brand
       text: 开始阅读
@@ -14,10 +14,10 @@ hero:
       link: /posts/
 
 features:
-  - title: 分布式训练
-    details: FSDP2、Context Parallel、Device Mesh 实践与原理
-  - title: NPU 性能优化
-    details: Ascend 910B、HCCL、CANN、torch_npu 实战
-  - title: 框架对比
-    details: LLaMA-Factory、HyperParallel、Transformers 测评
+  - title: 算法与模型
+    details: 模型结构、注意力机制、优化方法的原理与实现
+  - title: 训练与工程
+    details: 分布式训练、性能优化、框架与系统层面的实践
+  - title: 论文笔记
+    details: 读过的论文、复现记录、想法与延伸思考
 ---
