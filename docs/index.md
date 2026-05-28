@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Latent Space"
   text: "算法 · 训练 · 系统"
-  tagline: 把踩过的坑和想明白的事写下来
+  tagline: Nicht müde werden
   actions:
     - theme: brand
       text: 开始阅读

@@ -3,7 +3,7 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 import mathjax3 from 'markdown-it-mathjax3'
 
 export default withMermaid(defineConfig({
-title: 'Latent Space',
+  title: 'Latent Space',
   description: '算法 · 训练 · 系统 —— 笔记',
   lang: 'zh-CN',
 
